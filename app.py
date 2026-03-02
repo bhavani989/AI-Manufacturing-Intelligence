@@ -64,7 +64,7 @@ section[data-testid="stSidebar"] * {
 # -----------------------
 # Load Model
 # -----------------------
-model = joblib.load("C:/Users/bodap/OneDrive/Desktop/AIML_hackathon/xgboost_quality_model.pkl")
+model = joblib.load("xgboost_quality_model.pkl")
 
 st.title("🏭 AI-Driven Pharmaceutical Manufacturing Intelligence")
 
