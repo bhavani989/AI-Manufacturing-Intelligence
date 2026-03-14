@@ -71,7 +71,7 @@ AI-Manufacturing-Intelligence
 ├── requirements.txt
 └── README.md
 ```
-
+## Project link: https://ai-manufacturing-intelligence-wscjksrmcdraw6mriudpyp.streamlit.app/
 ## 👩‍💻 Author
 
 **Bodapati Bhavani**
