@@ -77,6 +77,3 @@ AI-Manufacturing-Intelligence
 **Bodapati Bhavani**
 AI & Data Science Student
 
-
-
-If you want, I can also give you **a 10/10 recruiter-level GitHub README (with badges, demo images, and architecture diagram)** that makes this project look **much stronger for AI internships.** 🚀
